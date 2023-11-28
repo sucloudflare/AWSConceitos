@@ -87,8 +87,5 @@
    <p><strong>AWS Fargate:</strong></p>
     <p>O AWS Fargate é um mecanismo de computação sem servidor para contêineres, compatível com o Amazon ECS e o Amazon EKS. Com o AWS Fargate, você não precisa provisionar ou gerenciar servidores, pois ele cuida da infraestrutura de servidor para você. Isso permite que você se concentre na inovação e no desenvolvimento de seus aplicativos, pagando apenas pelos recursos necessários para executar os contêineres.</p>
 
-   <p>Curtiu? Compartilhe!</p>
-    <p><a href="https://www.linkedin.com/in/thiagorgama/">LinkedIn - Thiago Gama</a></p>
-    <p><a href="https://www.linkedin.com/company/ka-solution/">LinkedIn - KA Solution</a></p>
     </ul>
     <p>Curtiu? Compartilhe! <a href='https://www.linkedin.com/in/edson-bruno-dev/'>Edson Bruno Linkedin</a> <3
