@@ -70,4 +70,4 @@
     <ul>
         <!-- Lista dos serviços de sistema de mensagens e arquivo -->
     </ul>
-    <p>Curtiu? Compartilhe! <a href='https://www.linkedin.com/in/edson-bruno-dev/'>
+    <p>Curtiu? Compartilhe! <a href='https://www.linkedin.com/in/edson-bruno-dev/'>Edson Bruno</a>
