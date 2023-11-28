@@ -7,36 +7,37 @@
 <h3>Introdução à AWS</h3>
 Conteúdo Essencial
 
-Os Três Modelos de Implementação de Computação em Nuvem
-Implantação Baseada na Nuvem:
+<ul>
+  <li></li>Os Três Modelos de Implementação de Computação em Nuvem
+Implantação Baseada na Nuvem:</li>
 
-Migrar aplicativos existentes para a nuvem.
+<li>Migrar aplicativos existentes para a nuvem.
 Projetar e criar novos aplicativos diretamente na nuvem.
-Implantação no Local:
+Implantação no Local:</li>
 
-Também conhecida como implantação de nuvem privada.
+<li>Também conhecida como implantação de nuvem privada.
 Recursos implantados localmente usando ferramentas de virtualização e gerenciamento de recursos.
-Implantação Híbrida:
+Implantação Híbrida:</li>
 
-Recursos baseados em nuvem conectados à infraestrutura local.
+<li>Recursos baseados em nuvem conectados à infraestrutura local.
 Útil em situações como manutenção de aplicativos legados no local ou conformidade com regulamentações governamentais.
 Benefícios da Computação em Nuvem
-Troque Despesas Iniciais por Despesas Variáveis:
+Troque Despesas Iniciais por Despesas Variáveis:</li>
 
-Pagamento apenas pelos recursos utilizados.
-Pare de gastar dinheiro para executar e manter datacenters:
+<li>Pagamento apenas pelos recursos utilizados.
+Pare de gastar dinheiro para executar e manter datacenters:</li>
 
-Elimina a necessidade de investir em hardware e manutenção de infraestrutura.
-Pare de Tentar Adivinhar a Capacidade:
+<li>Elimina a necessidade de investir em hardware e manutenção de infraestrutura.
+Pare de Tentar Adivinhar a Capacidade:</li>
 
-Dimensione automaticamente conforme a demanda, evitando suposições incorretas de capacidade.
-Beneficie-se de enormes economias de escala:
+<li>Dimensione automaticamente conforme a demanda, evitando suposições incorretas de capacidade.
+Beneficie-se de enormes economias de escala:</li>
 
-Aproveite os recursos compartilhados da nuvem para reduzir custos.
-Aumente a Velocidade e a Agilidade:
+<li>Aproveite os recursos compartilhados da nuvem para reduzir custos.
+Aumente a Velocidade e a Agilidade:</li>
 
-Implemente recursos rapidamente e adapte-se às mudanças com facilidade.
-Tenha Alcance Global em Minutos:
-
+<li>Implemente recursos rapidamente e adapte-se às mudanças com facilidade.
+Tenha Alcance Global em Minutos:</li>
+</ul>
 Expanda sua presença global de forma rápida e eficiente.
 Este módulo fornece uma visão geral dos modelos de implementação em nuvem e destaca os benefícios fundamentais que a computação em nuvem oferece. Entender esses conceitos é crucial para explorar efetivamente os serviços e recursos disponíveis na Amazon Web Services (AWS).
