@@ -66,8 +66,29 @@
    <p>Balanceamento de carga elástico:</p>
     <p>É o serviço AWS que distribui automaticamente o tráfego de entrada de aplicativos entre vários recursos, como instâncias do Amazon EC2.</p>
 
-   <p>Sistema de mensagens e arquivo:</p>
+   <h2>Sistema de mensagens e arquivo:</h2>
     <ul>
-        <!-- Lista dos serviços de sistema de mensagens e arquivo -->
+      
+   <p>O <strong>Amazon Simple Notification Service (Amazon SNS)</strong> é um serviço de publicação/assinatura. Utilizando tópicos do Amazon SNS, um editor envia mensagens para assinantes, semelhante a uma cafeteria onde o operador de caixa entrega pedidos ao barista que prepara as bebidas.</p>
+
+   <p>O <strong>Amazon Simple Queue Service (Amazon SQS)</strong> é um serviço de enfileiramento de mensagens. Ele é utilizado para enviar, armazenar e receber mensagens entre componentes de software, garantindo que as mensagens não se percam e não dependam da disponibilidade de outros serviços. Em um ambiente Amazon SQS, um aplicativo envia mensagens para uma fila, e um usuário ou serviço recupera, processa e exclui a mensagem da fila.</p>
+    <p><strong>AWS Lambda:</strong></p>
+    <p>O AWS Lambda permite a execução de códigos sem a necessidade de provisionar ou gerenciar servidores. Você paga apenas pelo tempo de computação consumido, aplicando cobranças apenas durante a execução do código. Isso proporciona a capacidade de executar códigos para diversos tipos de aplicativos ou serviços de back-end sem a necessidade de gerenciamento adicional.</p>
+
+   <p><strong>Container:</strong></p>
+    <p>Os contêineres são uma maneira comum de empacotar códigos, configurações e dependências do aplicativo em um único objeto. São úteis para processos e fluxos de trabalho com requisitos essenciais de segurança, confiabilidade e escalabilidade.</p>
+
+   <p><strong>Amazon Elastic Container Service (Amazon ECS):</strong></p>
+    <p>O Amazon ECS é um sistema de gerenciamento de contêineres altamente dimensionável e de alto desempenho. Permite a execução e escalabilidade de aplicativos em contêineres na AWS, compatível com contêineres Docker. Com o Amazon ECS, você pode usar chamadas de API para iniciar e interromper aplicativos baseados em Docker.</p>
+
+   <p><strong>Amazon Elastic Kubernetes Service (Amazon EKS):</strong></p>
+    <p>O Amazon EKS é um serviço totalmente gerenciado para executar o Kubernetes na AWS. O Kubernetes é um software de código aberto para implantar e gerenciar aplicativos em contêineres em grande escala. A AWS colabora ativamente com a comunidade Kubernetes para fornecer suporte contínuo e facilidade na aplicação de atualizações aos aplicativos gerenciados pelo Amazon EKS.</p>
+
+   <p><strong>AWS Fargate:</strong></p>
+    <p>O AWS Fargate é um mecanismo de computação sem servidor para contêineres, compatível com o Amazon ECS e o Amazon EKS. Com o AWS Fargate, você não precisa provisionar ou gerenciar servidores, pois ele cuida da infraestrutura de servidor para você. Isso permite que você se concentre na inovação e no desenvolvimento de seus aplicativos, pagando apenas pelos recursos necessários para executar os contêineres.</p>
+
+   <p>Curtiu? Compartilhe!</p>
+    <p><a href="https://www.linkedin.com/in/thiagorgama/">LinkedIn - Thiago Gama</a></p>
+    <p><a href="https://www.linkedin.com/company/ka-solution/">LinkedIn - KA Solution</a></p>
     </ul>
     <p>Curtiu? Compartilhe! <a href='https://www.linkedin.com/in/edson-bruno-dev/'>Edson Bruno Linkedin</a> <3
