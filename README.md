@@ -168,6 +168,5 @@ Este módulo fornece uma visão geral dos modelos de implementação em nuvem e 
 
   <footer>
     <p>Curtiu? Compartilhe!</p>
-    <a href="https://www.linkedin.com/in/thiagorgama/">LinkedIn - Thiago Gama</a>
-    <a href="https://www.linkedin.com/company/ka-solution/">LinkedIn - KA Solution</a>
+    <a href="https://www.linkedin.com/in/edson-bruno-dev/">LinkedIn - Edson Bruno</a>
   </footer>
