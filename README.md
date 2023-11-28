@@ -1,6 +1,6 @@
 # AWSConceitos
 
-
+![img](https://abracd.org/wp-content/uploads/2023/05/Group-169-3-1024x536.webp)
 
 Módulo 1: Introdução à AWS
 Conteúdo Essencial
