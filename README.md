@@ -2,7 +2,7 @@
 
 ![img](https://abracd.org/wp-content/uploads/2023/05/Group-169-3-1024x536.webp)
 
-<h2>Módulo 1</h2>
+<h1>Módulo 1</h1>
 
 <h3>Introdução à AWS</h3>
 Conteúdo Essencial
