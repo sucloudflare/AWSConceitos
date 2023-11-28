@@ -49,13 +49,17 @@
 
    <p>Tipos de instância do EC2:</p>
     <ul>
-        <!-- Lista dos tipos de instância do EC2 -->
+ <li><strong>Instância Tipo T2:</strong> Projetada para cargas de trabalho com requisitos de CPU intermitentes. Ideal para aplicativos de desenvolvimento e teste.</li>
+    <li><strong>Instância Tipo M5:</strong> Oferece um equilíbrio entre recursos de computação, memória e armazenamento. Adequada para aplicativos de banco de dados e servidores de aplicativos.</li>
+    <li><strong>Instância Tipo C5:</strong> Otimizada para cargas de trabalho de computação de alto desempenho. Indicada para processamento de dados intensivo.</li>
     </ul>
 
    <p>Definição de preços do EC2:</p>
-    <ul>
-        <!-- Lista das opções de definição de preços do EC2 -->
-    </ul>
+    <ul>  <li><strong>Preço Sob Demanda:</strong> Pague pelo uso sem compromissos de longo prazo. Ideal para cargas de trabalho com demanda variável ou desconhecida.</li>
+    <li><strong>Preço Reservado:</strong> Comprometa-se com um contrato de um ou três anos para obter descontos significativos em comparação com os preços sob demanda.</li>
+    <li><strong>Preço Spot:</strong> Aproveite os preços variáveis do mercado, ideais para cargas de trabalho tolerantes a interrupções e flexíveis em termos de tempo.</li>
+   
+   </ul>
 
    <p>Escalabilidade:</p>
     <p>A escalabilidade envolve começar apenas com os recursos de que você precisa e projetar sua arquitetura para responder automaticamente às alterações de demanda, fazendo aumentos ou reduções.</p>
