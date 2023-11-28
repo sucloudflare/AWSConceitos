@@ -39,5 +39,5 @@ Aumente a Velocidade e a Agilidade:</li>
 <li>Implemente recursos rapidamente e adapte-se às mudanças com facilidade.
 Tenha Alcance Global em Minutos:</li>
 </ul>
-<strom></strom>Expanda sua presença global de forma rápida e eficiente.
+<strom>Expanda sua presença global de forma rápida e eficiente.
 Este módulo fornece uma visão geral dos modelos de implementação em nuvem e destaca os benefícios fundamentais que a computação em nuvem oferece. Entender esses conceitos é crucial para explorar efetivamente os serviços e recursos disponíveis na Amazon Web Services (AWS).</strom>
