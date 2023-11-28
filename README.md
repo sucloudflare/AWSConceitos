@@ -2,7 +2,7 @@
     
    <img src="https://images.ctfassets.net/6yom6slo28h2/627q8AupcAWUiqMwkcESeS/d04f3bf1523f22249b0b80770fa2224e/featured-aws-cloud.png?w=500&h=324&q=100&fm=webp " alt="Imagem AWS">
 
-   <h2>Módulo 1: Introdução à AWS</h2>
+   <h2>Introdução à AWS</h2>
    <h3>Conteúdo Essencial</h3>
 
    <p>Os Três Modelos de Implementação de Computação em Nuvem:</p>
